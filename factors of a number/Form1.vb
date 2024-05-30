@@ -1,0 +1,25 @@
+﻿Public Class Form1
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim N, x As Integer
+        N = Val(TextBox1.Text)
+        For x = 2 To N - 1
+            If N Mod x = 0 Then
+                LstFactors.Items.Add(x)
+            End If
+        Next
+        LstFactors.Items.Add(N)
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        LstFactors.Items.Clear()
+        TextBox1.Text = ""
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        Application.Exit()
+    End Sub
+End Class

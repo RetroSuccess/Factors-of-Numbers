@@ -1,0 +1,13 @@
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\obj\Debug\factors of a number.vbproj.AssemblyReference.cache
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\obj\Debug\factors of a number.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\obj\Debug\factors_of_a_number.Form1.resources
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\obj\Debug\factors_of_a_number.Resources.resources
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\obj\Debug\factors of a number.vbproj.GenerateResource.cache
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\obj\Debug\factors of a number.vbproj.CoreCompileInputs.cache
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\bin\Debug\factors of a number.exe.config
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\bin\Debug\factors of a number.exe
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\bin\Debug\factors of a number.pdb
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\bin\Debug\factors of a number.xml
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\obj\Debug\factors of a number.exe
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\obj\Debug\factors of a number.xml
+C:\Users\ZaiyaanJattiem\source\repos\factors of a number\obj\Debug\factors of a number.pdb
